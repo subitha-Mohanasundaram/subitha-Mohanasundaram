@@ -4,16 +4,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58A6FF,100:0d1117&height=220&section=header&text=Hey%2C%20I'm%20Subitha%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Full%20Stack%20%7C%20Automation%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
-<a href="https://github.com/subitha-28">
+<a href="https://github.com/subitha-Mohanasundaram">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+intelligent+software+%F0%9F%A4%96;AI+%2B+Full+Stack+Developer+%F0%9F%9A%80;Automation+%7C+Java+%7C+Python+%7C+React;Open+to+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Profile views + followers badges -->
-<img src="https://komarev.com/ghpvc/?username=subitha-28&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=subitha-Mohanasundaram&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="profile views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/subitha-28?style=for-the-badge&color=58A6FF&labelColor=0d1117&label=FOLLOWERS" alt="followers"/>
+<img src="https://img.shields.io/github/followers/subitha-Mohanasundaram?style=for-the-badge&color=58A6FF&labelColor=0d1117&label=FOLLOWERS" alt="followers"/>
 
 </div>
 
@@ -80,13 +80,13 @@ available  : true  # Open to opportunities!
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=subitha-28&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=subitha-28&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=c9d1d9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=subitha-Mohanasundaram&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&rank_icon=github" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=subitha-Mohanasundaram&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=c9d1d9" />
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subitha-28&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&layout=compact&langs_count=8" />
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=subitha-28&theme=tokyonight&no-frame=true&row=2&column=4&no-bg=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subitha-Mohanasundaram&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&layout=compact&langs_count=8" />
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=subitha-Mohanasundaram&theme=tokyonight&no-frame=true&row=2&column=4&no-bg=true" />
 
 </div>
 
@@ -96,8 +96,8 @@ available  : true  # Open to opportunities!
 
 <div align="center">
 
-<a href="https://github.com/subitha-28">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=subitha-28&repo=subitha-28&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
+<a href="https://github.com/subitha-Mohanasundaram">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=subitha-Mohanasundaram&repo=subitha-Mohanasundaram&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
 </a>
 
 </div>
@@ -116,7 +116,7 @@ available  : true  # Open to opportunities!
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=subitha-28&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true&area_color=1c2936" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=subitha-Mohanasundaram&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true&area_color=1c2936" width="100%"/>
 
 </div>
 
@@ -127,9 +127,9 @@ available  : true  # Open to opportunities!
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subitha-28/subitha-28/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subitha-28/subitha-28/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/subitha-28/subitha-28/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subitha-Mohanasundaram/subitha-Mohanasundaram/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subitha-Mohanasundaram/subitha-Mohanasundaram/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/subitha-Mohanasundaram/subitha-Mohanasundaram/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
@@ -140,8 +140,8 @@ available  : true  # Open to opportunities!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/subitha-28)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/subitha-28)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/subitha-Mohanasundaram)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/subitha-Mohanasundaram)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subi.re17@gmail.com)
 
 </div>
