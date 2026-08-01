@@ -1,0 +1,1 @@
+Place banner.png, divider.svg and other assets here.
