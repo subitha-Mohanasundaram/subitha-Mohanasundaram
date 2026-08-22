@@ -85,9 +85,7 @@ available  : true  # Open to opportunities!
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=subitha-Mohanasundaram&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&rank_icon=github" />
 
 <img width="49%" src="https://streak-stats.demolab.com/?user=subitha-Mohanasundaram&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=c9d1d9" />
-
 <br/>
-
 </div>
 
 ---
@@ -102,7 +100,7 @@ available  : true  # Open to opportunities!
 
 | 🚀 Project                    | 📝 Description                                  | 🛠 Stack                    |
 | ----------------------------- | ----------------------------------------------- | --------------------------- |
-| 🤖 **AI Workflow Automation** | Intelligent automation platform powered by LLMs | Python · OpenAI · FastAPI   |
+| 🤖 **Flow AI**                | Intelligent automation platform powered by LLMs | Python · OpenAI · FastAPI   |
 | 💻 **Coding Platform**        | Competitive coding platform with AI assistance  | Java · React · Backend APIs |
 | 🏨 **DormVerse**              | Smart dormitory management system               | Node.js · MongoDB · React   |
 
