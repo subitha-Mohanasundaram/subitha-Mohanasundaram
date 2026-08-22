@@ -122,7 +122,7 @@ available  : true  # Open to opportunities!
 
 <img src="https://raw.githubusercontent.com/subitha-Mohanasundaram/subitha-Mohanasundaram/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
-</div>---
+</div>
 
 ## 🌐 Connect With Me
 
