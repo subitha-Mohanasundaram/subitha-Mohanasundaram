@@ -100,14 +100,6 @@ available  : true  # Open to opportunities!
 
 <div align="center">
 
-<a href="https://github.com/subitha-Mohanasundaram/AI-Workflow-Automation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=subitha-Mohanasundaram&repo=AI-Workflow-Automation&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
-</a>
-
-<a href="https://github.com/subitha-Mohanasundaram/PriceSage">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=subitha-Mohanasundaram&repo=PriceSage&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
-</a>
-
 </div>
 
 <br/>
