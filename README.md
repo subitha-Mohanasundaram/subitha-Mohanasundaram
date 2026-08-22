@@ -88,10 +88,6 @@ available  : true  # Open to opportunities!
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subitha-Mohanasundaram&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&layout=compact&langs_count=8" />
-
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=subitha-Mohanasundaram&theme=tokyonight&no-frame=true&row=2&column=4&no-bg=true" />
-
 </div>
 
 ---
